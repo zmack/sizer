@@ -1,0 +1,11 @@
+[package]
+
+name = "sizer"
+version = "0.0.1"
+authors = ["Andrei Bocan <zmaxor@gmail.com>"]
+
+[dependencies.hyper]
+git = "https://github.com/hyperium/hyper.git"
+
+[dependencies.stb_image]
+git = "https://github.com/zmack/rust-stb-image.git"
